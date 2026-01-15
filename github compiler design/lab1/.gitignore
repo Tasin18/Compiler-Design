@@ -1,0 +1,12 @@
+# Build / generated artifacts (Lab 1)
+*.exe
+*.o
+*.obj
+
+# Preprocessor / assembly outputs
+*.i
+*.s
+*.asm
+
+# Disassembly / dumps
+*.dump
